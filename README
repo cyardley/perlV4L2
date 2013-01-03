@@ -17,7 +17,7 @@ Source Files
 -grab.c and svv.c are C are examples of C applications using V4L2
 -grab.pl is an implementation of grab.c using this wrapper
 -libs contains relevant library header files
--V4L2.c contains some higher level V4L2 functions
+-V4L2.c contains extra C functions/structures to be wrapped
 -V4L2.i is the swig interface file
 -WebCam.pm uses this wrapper to provide functions for acessing a webcam with Perl
 
