@@ -57,7 +57,7 @@ void printVIDCAP(int fh){
     return;
 }
 
-
+/*
 //__X__ C TEST DRIVER CODE
 //NOT PART OF THE V4L2 INTERFACE
 
@@ -230,3 +230,5 @@ int testDriver(char* dev_name){
 int main(int argv, char* argc[]){
     return testDriver("/dev/video0");
 }
+
+*/
